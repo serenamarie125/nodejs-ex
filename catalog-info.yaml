@@ -6,6 +6,7 @@ metadata:
     nodejs-demo nodejs
   annotations:
     github.com/project-slug: serenamarie125/nodejs-ex
+    backstage.io/kubernetes-id: nodejs-ex
 spec:
   type: website
   owner: janus-authors
