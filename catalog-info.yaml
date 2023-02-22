@@ -3,7 +3,7 @@ kind: Component
 metadata:
   name: nodejs-ex
   description: |
-    nodejs-demo nodejs
+    This is a nodejs demo
   annotations:
     github.com/project-slug: serenamarie125/nodejs-ex
     backstage.io/kubernetes-id: nodejs-ex
