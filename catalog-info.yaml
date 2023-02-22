@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: nodejs-ex
+  annotations:
+    github.com/project-slug: serenamarie125/nodejs-ex
+spec:
+  type: other
+  lifecycle: unknown
+  
